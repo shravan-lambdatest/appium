@@ -1,5 +1,5 @@
 {
-  "name": "@appium/base-driver",
+  "name": "@shravan-lambdatest/base-driver",
   "version": "9.5.2",
   "description": "Base driver class for Appium drivers",
   "keywords": [
@@ -81,7 +81,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "8480a85ce2fa466360e0fb1a7f66628331907f02",
+  "gitHead": "fbaf49c1566dd7018f9a78d0de2c1aba3ddc4098",
   "tsd": {
     "directory": "test/types"
   }

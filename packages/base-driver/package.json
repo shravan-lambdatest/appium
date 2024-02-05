@@ -81,7 +81,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "3cdc277ec49666c84b7e65d33502203b7e5d0af5",
+  "gitHead": "96d468b8bee6dcf0827dcd09c697629d083857c1",
   "tsd": {
     "directory": "test/types"
   }

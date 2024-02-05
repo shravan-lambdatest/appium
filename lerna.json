@@ -15,6 +15,7 @@
       "message": "chore: release"
     }
   },
+  "packages": ["packages/base-driver"],
   "ignoreChanges": ["**/test/**", "**/*.md"],
   "useNx": false,
   "version": "independent"

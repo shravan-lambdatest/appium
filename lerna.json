@@ -12,9 +12,7 @@
       "concurrency": 8
     },
     "version": {
-      "conventionalCommits": true,
-      "createRelease": "github",
-      "allowBranch": "master"
+      "message": "chore: release"
     }
   },
   "ignoreChanges": ["**/test/**", "**/*.md"],

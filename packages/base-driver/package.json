@@ -14,7 +14,7 @@
   ],
   "homepage": "https://appium.io",
   "bugs": {
-    "url": "https://github.com/appium/appium/issues"
+    "url": "https://github.com/appium/appium/issues/new"
   },
   "repository": {
     "type": "git",
@@ -82,7 +82,7 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "7b0489829e11ee9663b5886f05c83dbb78f47649",
+  "gitHead": "c894e4fa670cea13732bbc2b90b5c2a820009049",
   "tsd": {
     "directory": "test/types"
   }

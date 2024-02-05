@@ -1,6 +1,6 @@
 {
   "name": "@shravan-lambdatest/base-driver",
-  "version": "9.5.2",
+  "version": "9.5.3",
   "description": "Base driver class for Appium drivers",
   "keywords": [
     "automation",

@@ -79,9 +79,10 @@
     "npm": ">=8"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "d174f9c0131393b752857c9fd1b328f41c52607b",
+  "gitHead": "3b39c00c8abae01a27235cd2971800568d19547f",
   "tsd": {
     "directory": "test/types"
   }

@@ -14,7 +14,7 @@
   ],
   "homepage": "https://appium.io",
   "bugs": {
-    "url": "https://github.com/appium/appium/issues"
+    "url": "https://github.com/appium/appium/issues/new"
   },
   "repository": {
     "type": "git",

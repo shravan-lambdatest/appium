@@ -82,7 +82,7 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "3b39c00c8abae01a27235cd2971800568d19547f",
+  "gitHead": "7b0489829e11ee9663b5886f05c83dbb78f47649",
   "tsd": {
     "directory": "test/types"
   }

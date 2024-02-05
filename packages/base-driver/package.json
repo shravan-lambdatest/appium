@@ -1,6 +1,6 @@
 {
   "name": "@shravan-lambdatest/base-driver",
-  "version": "9.5.8",
+  "version": "9.5.9",
   "description": "Base driver class for Appium drivers",
   "keywords": [
     "automation",
@@ -14,7 +14,7 @@
   ],
   "homepage": "https://appium.io",
   "bugs": {
-    "url": "https://github.com/appium/appium/issues/new"
+    "url": "https://github.com/appium/appium/issues"
   },
   "repository": {
     "type": "git",
